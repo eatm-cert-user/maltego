@@ -1,2 +1,2 @@
 # maltego
-maltego local transforms samples
+maltego local transform samples
